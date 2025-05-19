@@ -10,3 +10,4 @@
 [InsertAtEnd output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(82).png)
 [DisplayElementsWithPositions output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(83).png)
 [SwapElements output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(84).png)
+[StringOperationsDemo output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(85).png)
