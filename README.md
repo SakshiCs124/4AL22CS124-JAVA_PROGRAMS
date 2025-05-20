@@ -13,3 +13,4 @@
 [StringOperationsDemo output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(85).png)
 [StringPerformanceTest output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(87).png)
 [StringHandlingDemo output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(88).png)
+[NullOrEmptyCheck output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(89).png)
