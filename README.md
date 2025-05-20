@@ -18,4 +18,5 @@
 [StringReversal output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(91).png)
 [PalindromeCheck output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(92).png)
 [WhitespaceRemover output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(93).png)
+[CapitalizeWords output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(94).png)
 
