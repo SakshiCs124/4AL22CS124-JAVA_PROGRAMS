@@ -1,1 +1,5 @@
-
+[CapitalizeWords output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(94).png)
+[StringTruncator output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(95).png) 
+[NumericCheck output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(97).png)
+[RandomStringGenerator output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(98).png) 
+[WordCounter output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(99).png)
