@@ -29,6 +29,7 @@
 [CountryListDemo output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(104).png)
 [ColorTabbedPaneDemo output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(105).png)
 [CountryCapitalList output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(106).png)
+[CMYTabbedPane output_link]->(https://github.com/SakshiCs124/4AL22CS124-JAVA_PROGRAMS/blob/main/Screenshot%20(107).png)
 
 
 
